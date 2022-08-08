@@ -41,7 +41,7 @@ theme:
     - search.share
     - search.suggest
     - toc.follow
-    - toc.integrate
+    # - toc.integrate
   palette:
     - scheme: default
       toggle:
@@ -68,9 +68,9 @@ plugins:
 
 nav:
   - About me: index.md
-  # - Architecture:
-  #   - architecture/index.md
-  #   - Patterns: architecture/patterns.md
+  - Architecture:
+    - architecture/index.md
+    - Patterns: architecture/patterns.md
   # - Blog:
   #   - blog/index.md
   #   - 2022:
