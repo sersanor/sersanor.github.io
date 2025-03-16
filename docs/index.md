@@ -1,6 +1,6 @@
 # Sergio Sánchez Ortiz
 
-![Sergio Sánchez Ortiz](https://media-exp1.licdn.com/dms/image/C5103AQGrVB3hha_3sw/profile-displayphoto-shrink_200_200/0/1516469774690?e=1665619200&v=beta&t=n7en51siZ9fd5nn5a6zluh2DzcX20-YQKzGLZVAm3s4){ align=right }
+![Sergio Sánchez Ortiz](./assets/sergio-sanchez-ortiz.webp){ align=right }
 
 Pragmatic Architect with +6 years of experience in Retail and Industry companies with in-depth understanding of software development and systems design for resolving problems and improving customer satisfaction.  
 
