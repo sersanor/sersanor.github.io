@@ -1,15 +1,23 @@
-# Sergio Sánchez Ortiz
+# **Sergio Sánchez Ortiz**
 
 ![Sergio Sánchez Ortiz](./assets/sergio-sanchez-ortiz.webp){ align=right }
 
 Pragmatic Architect with +6 years of experience in Retail and Industry companies with in-depth understanding of software development and systems design for resolving problems and improving customer satisfaction.  
 
+## 💼 **Experience**
 
-## Education
+### **Solutions Architect at Zartis S.L.**
+The Lead physical supermarket and online shopping company in Spain.
 
-**Bachelor of Computer Science** at *Universitat Politécnica de Valencia*.
+- Responsible of IoT, Building, HR and Finance Solution Architectures.
+- Definition of process and architecture of COTS (Commercial Off -The-Shelf) Software.
+- Actively participated in the implantation of CI/CD.
+- Ambassador of Event Driven Architectures.
+- Designed the plan for Modernize Legacy Monolithic systems to Microservices Architectures
+- Designed a vendor decoupled architecture of Enterprise Content Management.
+- Implantation of Digital Asset Management for company.
 
-## Experience
+🛠️ **Technologies**  Angular, Confluence, Docker, Event Driven Architectures, GitLab, Google Cloud Platform, Jenkinks, Jira, K8s, Kafka, Micro Services Architectures, Model View Controller, MongoDB, Node-Red, Outsystems, Redis, Service Oriented Architectures, Spinnaker, Spring Batch, Spring Boot, Terraform.
 
 ### **Enterprise & Solution Architect at Mercadona S.A.**
 The Lead physical supermarket and online shopping company in Spain.
@@ -22,7 +30,7 @@ The Lead physical supermarket and online shopping company in Spain.
 - Designed a vendor decoupled architecture of Enterprise Content Management.
 - Implantation of Digital Asset Management for company.
 
-◆ **Technologies**  Angular, Confluence, Docker, Event Driven Architectures, GitLab, Google Cloud Platform, Jenkinks, Jira, K8s, Kafka, Micro Services Architectures, Model View Controller, MongoDB, Node-Red, Outsystems, Redis, Service Oriented Architectures, Spinnaker, Spring Batch, Spring Boot, Terraform.
+🛠️ **Technologies**  Angular, Confluence, Docker, Event Driven Architectures, GitLab, Google Cloud Platform, Jenkinks, Jira, K8s, Kafka, Micro Services Architectures, Model View Controller, MongoDB, Node-Red, Outsystems, Redis, Service Oriented Architectures, Spinnaker, Spring Batch, Spring Boot, Terraform.
 
 ### **IT Operations Engineer at Delisano**
 
@@ -32,7 +40,7 @@ Grup Cañigueral is a well-established business holding in the food sector with 
 - Implanted a knowledge platform, improving collaborative job and reducing issues resolution time.
 - Captured Business needs and deploy software improvements to MES and ERP systems.
 
-◆ **Technologies** FRONTRANGE, VMWARE, CITRIX, PLSQL, SQL, ORACLE, ROSS, MAPEX, NAVISION, .NET, JAVASCRIPT, HTML, CSS, ITIL, Industrial Labeling (Bizerba, Dibal, Sato, Ravenwood, Mecatronic, Espera), PLCs. SCADA, Artificial Vision, WinCC.
+🛠️ **Technologies** FRONTRANGE, VMWARE, CITRIX, PLSQL, SQL, ORACLE, ROSS, MAPEX, NAVISION, .NET, JAVASCRIPT, HTML, CSS, ITIL, Industrial Labeling (Bizerba, Dibal, Sato, Ravenwood, Mecatronic, Espera), PLCs. SCADA, Artificial Vision, WinCC.
 
 
 ### **IT Operations Engineer Martínez Loriente**
@@ -43,7 +51,7 @@ Martínez Loriente, is a Valencian company that provides Mercadona with fresh be
 - Implanted a knowledge platform, improving collaborative job and reducing issues resolution time.
 - Captured Business needs and deploy software improvements to MES and ERP systems.
 
-◆ **Technologies**: FRONTRANGE, VMWARE, CITRIX, PLSQL, SQL, ORACLE, ROSS, MAPEX, NAVISION, .NET, JAVASCRIPT, HTML, CSS, ITIL, Industrial Labeling (Bizerba, Dibal, Sato, Ravenwood, Mecatronic, Espera), PLCs. SCADA, Artificial Vision, WinCC.
+🛠️ **Technologies**: FRONTRANGE, VMWARE, CITRIX, PLSQL, SQL, ORACLE, ROSS, MAPEX, NAVISION, .NET, JAVASCRIPT, HTML, CSS, ITIL, Industrial Labeling (Bizerba, Dibal, Sato, Ravenwood, Mecatronic, Espera), PLCs. SCADA, Artificial Vision, WinCC.
 
 
 ### **Software Engineer at MESBook**
@@ -54,7 +62,7 @@ MESbook is a real-time manufacturing management system. It is the perfect tool t
 - Adopted Agile culture for improve Software Development Life Cycle.
 - Captured and Document business requirements and plan for software sprints.
 
-◆ **Technologies** .NET, MVC, SQL, LINQ, JAVASCRIPT, HTML, CSS, JQUERY, ANGULAR, JIRA, SVN.
+🛠️ **Technologies** .NET, MVC, SQL, LINQ, JAVASCRIPT, HTML, CSS, JQUERY, ANGULAR, JIRA, SVN.
 
 ### **Software Engineer at DISCA, UPV**
 
@@ -64,7 +72,7 @@ Opencast is a flexible, scalable and reliable video management, distribution and
 - Designed and developed plugins for improve user experience.
 - Assisted in provided guidance and training to end customer along with getting feedback for continuous improvement.
 
-◆ **Technologies** JAVASCRIPT, NODEJS, JQUERY, ANGULARJS, GRUNTJS, MONGODB, GIT, EXPRESS, HTML, CSS, SCRUM.
+🛠️ **Technologies** JAVASCRIPT, NODEJS, JQUERY, ANGULARJS, GRUNTJS, MONGODB, GIT, EXPRESS, HTML, CSS, SCRUM.
 
 ### **Software Engineer at Esenzia**
 
@@ -74,7 +82,7 @@ Company dedicated to providing web solutions and low-cost hosting to small busin
 - Developed e-commerce and Websites leaning on CMS platforms.
 - Provided a first line of customer support.
 
-Technologies: CMS (Wordpress, Drupal, Joomla, e-Commerce. Prestashop, Moddle), PHP, SQL, LINUX, CPANEL, PLESK.
+🛠️ **Technologies**: CMS (Wordpress, Drupal, Joomla, e-Commerce. Prestashop, Moddle), PHP, SQL, LINUX, CPANEL, PLESK.
 
 
 ### **Non-IT Experience**
@@ -86,6 +94,21 @@ Technologies: CMS (Wordpress, Drupal, Joomla, e-Commerce. Prestashop, Moddle), P
 - 3 years of Industry Experience (Assembly Lane)
     - Maintenance Operator - TE Connectivity (2008)
     - AC Equipment Installer - Panasonic Co. (2004-2006)
+
+## 📜 **Certifications**
+
+### [TOGAF® Enterprise Architecture Practitioner](https://www.credly.com/badges/09326363-51a2-4e4e-9c51-d1d3b3cac7b4/linked_in_profile)
+### Other certifications
+- Remote Work and Virtual Collaboration Professional Certificate - RWVCPC
+- Cyber Security Foundation Professional Certificate - CSFPC™
+- Scrum Foundations Professional Certificate (SFPC)
+- COMPETENCIAS PROFESIONALES: La Inteligencia Emocional
+- Gestión eficaz del tiempo para mejorar tu rendimiento
+
+
+## 🎓 **Education**
+
+### **Bachelor of Computer Science** at *Universitat Politécnica de Valencia*.
 
 
 
