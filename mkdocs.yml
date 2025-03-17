@@ -13,11 +13,8 @@ extra:
   - icon: fontawesome/brands/linkedin
     link: https://www.linkedin.com/in/sersanor/
     name: Sergio Sánchez LinkedIn Profile
-  - icon: fontawesome/solid/globe
-    link: https://sersanor.com
-    name: Sergio Sánchez Personal Website
   - icon: fontawesome/solid/envelope
-    link: mailto://sersanor@gmail.com
+    link: mailto:sersanor@gmail.com
     name: Send email to Sergio Sánchez
 
 theme:
@@ -28,12 +25,12 @@ theme:
   features:
     - content.code.annotate
     # - content.tabs.link
-    # - header.autohide
+    #- header.autohide
     # - navigation.expand
     # - navigation.indexes
     # - navigation.instant
     - navigation.sections
-    - navigation.tabs
+    #- navigation.tabs
     #- navigation.tabs.sticky
     - navigation.top
     # - navigation.tracking
@@ -71,9 +68,9 @@ plugins:
 
 nav:
   - About me: index.md
-  # - Architecture:
-  #   - architecture/index.md
-  #   - Patterns: architecture/patterns.md
+  #- Architecture:
+  #  - architecture/index.md
+  #- Patterns: architecture/patterns.md
   # - Blog:
   #   - blog/index.md
   #   - 2022:
